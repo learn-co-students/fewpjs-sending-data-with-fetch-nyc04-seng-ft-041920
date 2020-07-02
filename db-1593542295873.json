@@ -9,18 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "Meaty",
-      "dogBreed": "English Bulldog",
-      "submit": "Submit",
-      "id": 3
-    },
-    {
-      "dogName": "Beefy",
-      "dogBreed": "Bulldog",
-      "submit": "Submit",
-      "id": 4
     }
   ],
   "cats": [
